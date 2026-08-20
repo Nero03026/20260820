@@ -1,0 +1,2 @@
+1.可以切換儲存庫 (current repository) 點擊下去可以切換不同的儲存庫
+2.可以切換分支 (Current Branch)點擊下去可以切換不同的分支
