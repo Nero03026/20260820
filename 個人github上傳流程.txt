@@ -1,0 +1,11 @@
+1.修改專案內容
+2.在GITHUB desktop 上選擇要上傳的檔案
+3.打Commit Message ( feat:這一包內容的簡易說明 )
+  前墜會使用的內容
+  feat -> 新增
+  fix -> 修改
+  docs -> 寫文件
+  style -> 單純修改CSS樣式 (使用會再偏少)
+  test -> (功能已經寫完成後，寫的測試功能)
+4.commit 加入到占存
+5.上傳到github上
